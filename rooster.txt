@@ -1,0 +1,1 @@
+https://greijdanus.zportal.nl/api/v2/ical?access_token=dlkqsigtv6quj0uuq0dlq9892k&startWeekOffset=0&endWeekOffset=1&valid=true&user=~me
